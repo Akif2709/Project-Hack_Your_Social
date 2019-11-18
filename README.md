@@ -1,5 +1,7 @@
 # Hack Your Social
 
+You can reach the last version of the project by the following url: https://hackyoursocial.herokuapp.com
+
 > Social network for developers
 
 This is a MERN stack application. It is a small social network app that includes authentication, profiles and forum posts.
